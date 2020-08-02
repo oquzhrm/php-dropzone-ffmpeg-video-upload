@@ -11,3 +11,5 @@ bilgisayarim özellikler bölümüne girdikten sonra gelişmiş sistem ayarları
 sistem değişkenleri bölümünde PATH i bulup çift tıklıyoruz açılan pencerede yeni butonuna tıklayarak zip arşivinden çıkardığımız dosyanın yolunu burayan ekliyoruz ve tamam a tıklıyoruz
 
 kurulum bittikten sonra projeyi ççalıştırıp kullanabilirsiniz kod bloklarının ne anlama geldiği yorum satırları ile belirtilmiştir.
+
+projeyi indirdikten sonra projenin ana dizinine " video " isminde bir klasör oluşturun
