@@ -1,5 +1,7 @@
 # php-dropzone-ffmpqeg-video-upload
 
+yüklenen videonun kalitesini verilen değere göre ÖR: 240p,360p,480p,720,1080p ayarlıyor ve upload yaparken oluşturulan video dosyasını sıkıştırıyor
+
 ffmpeg windows indirme linki : https://ffmpeg.zeranoe.com/builds/
 
 indirilen zip arşivini C dizini altına ffmpeg adında yeni klasör açarak bu klasör içerisine çıkarıyoruz.
