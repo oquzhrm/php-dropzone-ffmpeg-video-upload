@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DropZone.js & Video.js & FFMPEG & PHP Upload</title>
+    <title>DropZone.js & FFMPEG & PHP Upload</title>
     <link rel="stylesheet" href="./src/dropzone.css">
 </head>
 <body>
