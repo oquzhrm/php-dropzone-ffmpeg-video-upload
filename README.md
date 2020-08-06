@@ -11,7 +11,7 @@ Bu sistemi yeni geliştirmeye başladım vakit buldukça yeni özellikler katmay
 
 ### Kurulum
 
-*  [FFMPEG] Windows indirme linki : https://ffmpeg.zeranoe.com/builds/
+*  FFMPEG [Windows] indirme linki : https://ffmpeg.zeranoe.com/builds/
 
 > İndirilen zip arşivini C dizini altına ffmpeg adında yeni klasör açarak bu klasör içerisine çıkarıyoruz.
 ```sh
@@ -30,7 +30,7 @@ ffmpeg -i C:\Users\Downloads\1.mp4 -ss 00:00:01.00 -vframes 1 -vf scale=1920:108
 
 
 
-   [FFMPEG]: <https://ffmpeg.zeranoe.com/builds/>
+   [Windows]: <https://ffmpeg.zeranoe.com/builds/>
  
 
 
