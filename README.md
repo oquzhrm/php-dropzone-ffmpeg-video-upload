@@ -1,4 +1,4 @@
-# php-dropzone-ffmpqeg-video-upload
+# php-dropzone-ffmpeg-video-upload
 
 # Kullanımı
 Dropzone upload yapılması için verilen videoyu 240p, 360p, 480p, 720p, 1080p olarak çıktı veriyor ve bu çıktıyı direk sunucuya ekliyor ek olarak da sıkıştırma yapıyor.
