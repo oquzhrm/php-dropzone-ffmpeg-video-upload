@@ -13,11 +13,11 @@ Bu sistemi yeni geliştirmeye başladım vakit buldukça yeni özellikler katmay
 
 *  [FFMPEG] Windows indirme linki : https://ffmpeg.zeranoe.com/builds/
 
-> İndirilen zip arşivini C dizini altına ffmpeg adında yeni klasör açarak bu klasör içerisine çıkarıyoruz.`${package.json.version}`
+> İndirilen zip arşivini C dizini altına ffmpeg adında yeni klasör açarak bu klasör içerisine çıkarıyoruz.
 ```sh
 ffmpeg -i C:\Users\Downloads\1.mp4 -ss 00:00:01.00 -vframes 1 -vf scale=1920:1080 out.jpg
 ```
-> Yukarıdaki örnekdeki gibi ffmpeg keyi ile doğrudan kullanmak istiyorsanız şu adımları izleyin; 
+> Yukarıdaki örnekdeki gibi terminal veya cmd'de ffmpeg keyi ile doğrudan kullanmak istiyorsanız şu adımları izleyin; 
 
 > Bilgisayarım özellikler bölümüne girdikten sonra Gelişmiş Sistem Ayarlarını açıyoruz Ortam Değişkenlerine tıklıyoruz
 > Sistem değişkenleri bölümünde PATH i bulup çift tıklıyoruz açılan pencerede yeni butonuna tıklayarak C:\ffmpeg\bin  dosya yolunu veriyoruz yani arşivden nereye çıkardıysanız o dosya yolunu veriyorsunuz ekliyoruz ve tamama tıklıyoruz
